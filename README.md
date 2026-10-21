@@ -4,9 +4,9 @@
 
 <img src="https://github.com/SadariusHarris.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Your Name
+# Hi there, I'm Sadarius Harris
 
-**Your Name**
+**Sadarius Harris**
 
 *ITSA Student*
 
