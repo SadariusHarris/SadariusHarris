@@ -1,68 +1,82 @@
-Electronics & Electrical Engineering
-About Me
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22SadariusHarris%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Capture%20Day%204%20AI%20Tutor%20Prompt%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20Teachable%20Machine%20Learning%20Lab%20Link%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
-I am an Electronics and Electrical Engineering professional with a certification from Bristol Technical Education Center. My training has provided me with a foundation in electrical systems, electronics, circuit fundamentals, troubleshooting, and technical problem-solving.
+<div align="center">
 
-I am passionate about understanding how electrical and electronic systems work and applying technical knowledge to practical engineering challenges.
+<img src="https://github.com/SadariusHarris.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-🎓 Certification
+# Hi there, I'm Your Name
 
-Electronics & Electrical Engineering Certification
-Bristol Technical Education Center
+**Your Name**
 
-My certification represents formal technical training in electronics and electrical engineering principles, with an emphasis on practical knowledge and hands-on technical skills.
+*ITSA Student*
 
-🔧 Technical Areas
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40SadariusHarris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadariusHarris)
 
-My areas of knowledge and training include:
+</div>
 
-Electrical and electronic fundamentals
-Circuit theory and analysis
-Electrical wiring and connections
-Electronic components and circuits
-Electrical system troubleshooting
-Testing and measurement
-Schematic and circuit diagram interpretation
-Electrical safety and best practices
-Basic electrical system maintenance
-Technical problem-solving
-🛠️ Skills
-Skill	Area
-Circuit Analysis	Electronics / Electrical
-Troubleshooting	Electrical Systems
-Testing & Measurement	Electronics
-Wiring & Connections	Electrical
-Schematic Reading	Engineering
-Component Identification	Electronics
-Electrical Safety	Engineering
-Technical Problem Solving	Engineering
-📚 Education
-Bristol Technical Education Center
+---
 
-Certification in Electronics & Electrical Engineering
+## Professional Summary
 
-Completed technical training focused on developing practical and theoretical knowledge in electrical and electronic engineering.
+*Add your professional summary above to display it here.*
 
-🎯 Professional Interests
+---
 
-I am particularly interested in opportunities involving:
+## Skills Learned
 
-Electrical engineering
-Electronics
-Electrical maintenance
-Industrial electrical systems
-Automation and controls
-Circuit design
-Equipment troubleshooting
-Technical support
-Engineering technology
-🚀 Career Objective
+*Select skills in the builder to display them here.*
 
-My goal is to continue developing my technical and engineering skills while applying my education to real-world electrical and electronics projects. I am interested in opportunities where I can contribute to a team, solve technical problems, gain practical experience, and continue growing as an engineering professional.
+---
 
-📈 Continuous Learning
+## Course Portfolio
 
-I believe engineering is a field of continuous learning. I am committed to expanding my knowledge through hands-on projects, technical training, practical experience, and continued study of modern electrical and electronic technologies.
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
 
-Electronics & Electrical Engineering
-Bristol Technical Education Center
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Capture Day 4 AI Tutor Prompt | — | ✅ Complete | — |
+| Capture Teachable Machine Learning Lab Link | — | ✅ Complete | — |
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
